@@ -1,3 +1,12 @@
+![image](https://github.com/erdalozkaya71/101391157_comp3123_labtest2/assets/100086644/0daf87eb-50cb-4405-868a-f85f58959413)
+This the first page to enter the city and the country and then it dispalys all the data by clicking submit button.
+![image](https://github.com/erdalozkaya71/101391157_comp3123_labtest2/assets/100086644/dc0b1081-1200-4c0c-b070-06cca169853a)
+In this page the app displays the weather info of Toronto. It takes the data from "https://openweathermap.org/" by using api
+displays on the screen.
+![image](https://github.com/erdalozkaya71/101391157_comp3123_labtest2/assets/100086644/afaf6252-dc82-4815-90a9-c357fa0dfa7f)
+This is weather info for another city, New York, USA
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
